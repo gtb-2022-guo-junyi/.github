@@ -1,6 +1,5 @@
 ## Welcome to Zoe's Org 👋
 
-<!--
 
 **🙋‍♀️ A short introduction**
 
@@ -19,4 +18,4 @@ Honestly, my graduate major is mechanical engineering, but I have a few programm
 
 
 
--->
+
