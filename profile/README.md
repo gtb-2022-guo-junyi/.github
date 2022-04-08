@@ -1,12 +1,22 @@
-## Hi there 👋
+## Welcome to Zoe's Org 👋
 
 <!--
 
-**Here are some ideas to get you started:**
+**🙋‍♀️ A short introduction**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Hi, there! 
+
+My name is Junyi Guo.
+
+I'm graduating at the end of May 2022 and I'm still in Germany, this is my recent selfie
+
+![me](assets/me.png)
+
+I will be working in the Chengdu office of Thoughtworks in the future
+
+Honestly, my graduate major is mechanical engineering, but I have a few programming experience, but there is still a lot to learn.
+
+
+
+
 -->
